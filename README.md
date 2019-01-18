@@ -170,4 +170,3 @@ With libadsb version 3, many things have changed, including:
 #### Long/Short ACAS
 
 * MaximumAirspeed in knots instead of m/s (use `tools.knots2MetersPerSecond()` for conversion)
-
